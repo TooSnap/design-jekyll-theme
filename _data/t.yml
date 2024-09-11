@@ -1,41 +1,24 @@
 ---
 ## Main icon
-icon: "/assets/images/b.svg"
+icon: "https://www.stepanek.io/wp-content/themes/stepi/assets/images/logo.webp"
 
 ## Social Card [1200x630]
-social-card: /assets/images/favicons/social-card.png
+social-card: https://www.stepanek.io/wp-content/themes/stepi/assets/images/logo.webp
 
 ## Site name
 name:
-  en: "A Jekyll theme"
-  it: "Un tema Jekyll"
+  en: "Giovani in comune"
+  it: "Giovani in comune"
 
 ## Site description
 description:
-  en: "A website with a Jekyll theme"
-  it: "Sito di esempio per il tema Jekyll"
+  it: "Tutti i giovani hanno una voce, da ora anche in comune"
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "Team per la Trasformazione Digitale"
+  en: "Gabriel Jones"
+  it: "Gabriel Jones"
 
-## Social
-social-links:
-  en:
-    twitter:
-      name: "twitter"
-      url: "https://twitter.com/ITdigitalteam"
-    medium:
-      name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
-  it:
-    twitter:
-      name: "twitter"
-      url: "https://twitter.com/teamdigitaleIT"
-    medium:
-      name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
 
 ## Labels
 italian-version:
