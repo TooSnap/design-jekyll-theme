@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage di esempio
+title: Homepage
 description: Questo è un esempio di homepage con utilizzo del componente "hero"
 lang: it
 ref: homepage
@@ -12,7 +12,6 @@ order: 1
 
 <main class="container my-4" markdown="1">
 
-{% include posts.html %}
 
 
 
